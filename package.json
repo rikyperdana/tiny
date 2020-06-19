@@ -1,4 +1,11 @@
 {
   "name": "@rikyperdana/tiny",
-  "version":"1.0.0"
+  "version":"1.0.0",
+  "description": "Removes all spaces from string",
+  "license": "MIT",
+  "repository": "rikyperdana/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny", "npm", "package", "rikyperdana"
+  ]
 }
