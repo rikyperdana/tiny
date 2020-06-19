@@ -1,5 +1,6 @@
-![npm](https://img.shields/badge/npm-1.0.0-blue "npm version")
-![minified](https://img.shields/badge/minified_size-257_B-blue "minified size")
+[![GitHub issues](https://img.shields.io/github/issues/rikyperdana/tiny)](https://github.com/rikyperdana/tiny/issues)
+[![GitHub forks](https://img.shields.io/github/forks/rikyperdana/tiny)](https://github.com/rikyperdana/tiny/network)
+[![GitHub license](https://img.shields.io/github/license/rikyperdana/tiny)](https://github.com/rikyperdana/tiny)
 
 Removes all spaces from a string.
 
